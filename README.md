@@ -1,4 +1,5 @@
 Medium link to the article:
+
 https://medium.com/@emaspa/connect-filemaker-to-google-sheets-a-step-by-step-guide-for-real-time-data-sync-df8b051d3b91
 
 # fmgooglespreadsheet
