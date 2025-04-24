@@ -9,9 +9,11 @@ Have you ever dreamed of syncing your FileMaker data with Google Sheets in real 
 You're in the right place.
  In this article, we'll learn how to integrate FileMaker with the Google Sheets API - even if you're not a Google Cloud expert (yet!).
 We'll go step-by-step, and at the end, I'll give you a ready-to-use FileMaker file. You'll just need to plug in a few values like your client ID and refresh token, and you'll be up and running in no time. 🎉
+
 🎯 Real-life use case
 Let's say you run a small company and use FileMaker to manage your orders. Every day, your staff needs to update a shared Google Sheet with the latest orders for accounting. Doing it manually is slow and boring.
 With this integration, FileMaker can send data directly to your spreadsheet with a click. You can even clear the sheet before writing new values, or retrieve and display data back into FileMaker.
+
 🛠️ What We'll Build
 We'll:
 Connect FileMaker to the Google Sheets API using OAuth2
